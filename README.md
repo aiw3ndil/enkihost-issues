@@ -1,8 +1,7 @@
 # enkihost-issues
 
 ## ​📥 Public Issue Tracker
-​Welcome! This repository serves as a centralized hub for reporting bugs, suggesting features, and discussing improvements for my projects.
-​Instead of opening issues across multiple repositories, please use this space to keep things organized.
+​Welcome! This repository serves as a centralized hub for reporting bugs, suggesting features, and discussing improvements for enkihost.
 
 ## ​🚀 How to Contribute
 ​Before opening a new issue, please search existing issues to see if your topic is already being discussed.
